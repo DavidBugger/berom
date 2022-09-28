@@ -1,0 +1,167 @@
+[
+{
+  "image": "images/a.png",
+  "Berom_name": "Ba",
+  "English_name": "Knife",
+  "Description": "A sharp object used for cutting vegetables"
+},
+{
+    "image": "images/b.png",
+    "Berom_name":"Bop",
+    "English_name": "Pigeon",
+    "Description": "Is a specie of bird"
+},
+{
+    "image": "images/c.png",
+    "Berom_name": "Congot",
+    "English_name": "Hen",
+    "Description": "Is a domestic animal"
+},
+{
+    "image": "images/d.png",
+    "Berom_name": "Durum",
+    "English_name": "Horn",
+    "Description": "Sound Instrument"
+},
+{
+    "image": "images/e.png",
+    "Berom_name": "Fwong",
+    "English_name": "Ear",
+    "Description": "An organ in the human body"
+}, 
+
+{
+    "image": "images/f.png",
+    "Berom_name": "Fey",
+    "English_name": "Hare",
+    "Description": "A very clever animal"
+
+}, 
+{
+    "image": "images/g.png",
+    "Berom_name": "Gutsang",
+    "English_name": "Crocodile",
+    "Description": "An animal that lives in the water"
+}, 
+{
+    "image": "images/h.png",
+    "Berom_name": "Hwong",
+    "English_name": "Girl",
+    "Description": "A female gender"
+},
+{
+    "image": "images/i.png",
+    "Berom_name": "Kyit",
+    "English_name": "Yam",
+    "Description": "A carbohydrate food"
+},
+{
+    "image": "images/j.png",
+    "Berom_name": "Jagawey", 
+    "English_name": "Vulture", 
+    "Description": "A bird speicie"
+},
+
+
+{
+     "image": "images/k.jpg",
+    "Berom_name": "Kim", 
+    "English_name": "Eagle", 
+    "Description": "A birth"
+}, 
+{
+     "image": "images/l.jpg",
+    "Berom_name": "Lyang", 
+    "English_name": "Scorpion", 
+    "Description": "A baby boy or girl"
+},
+
+{
+     "image": "images/m.jpg",
+    "Berom_name": "Maryat", 
+    "English_name": "Carmel", 
+    "Description": "An animal that is commonly found in deserted areas"
+},
+{
+     "image": "images/n.jpg",
+    "Berom_name": "Narang", 
+    "English_name": "Phone", 
+    "Description": "An animal specie"
+},
+{
+     "image": "images/o.jpg",
+    "Berom_name": "Ouk", 
+    "English_name": "Oak", 
+    "Description": "A baby boy or girl"
+},
+{
+     "image": "images/p.jpg",
+    "Berom_name": "Pyal", 
+    "English_name": "Garden Egg", 
+    "Description": "A baby boy or girl"
+},
+
+{
+     "image": "images/q.jpg",
+    "Berom_name": "Lyang", 
+    "English_name": "Scorpion", 
+    "Description": "A baby boy or girl"
+},
+{
+     "image": "images/r.jpg",
+    "Berom_name": "Rawal", 
+    "English_name": "Locust", 
+    "Description": "An animal specie"
+},
+{
+     "image": "images/s.jpg",
+    "Berom_name": "Shonong", 
+    "English_name": "Barger", 
+    "Description": "An animal"
+},
+
+{
+     "image": "images/t.jpg",
+    "Berom_name": "Tebut", 
+    "English_name": "Table", 
+    "Description": "A furniture commonly found in homes"
+},
+
+{
+     "image": "images/u.jpg",
+    "Berom_name": "", 
+    "English_name": "Scorpion", 
+    "Description": "A baby boy or girl"
+},
+{
+     "image": "images/v.jpg",
+    "Berom_name": "vwu", 
+    "English_name": "Dong", 
+    "Description": "A domestic animal "
+},
+{
+     "image": "images/w.jpg",
+    "Berom_name": "wal", 
+    "English_name": "Cutlass", 
+    "Description": "A baby boy or girl"
+},
+{
+     "image": "images/x.jpg",
+    "Berom_name": "", 
+    "English_name": "", 
+    "Description": ""
+},
+{
+     "image": "images/y.jpg",
+    "Berom_name": "Ying-gyi", 
+    "English_name": "Owl", 
+    "Description": "A bird "
+},
+{
+     "image": "images/z.jpg",
+    "Berom_name": "Zebereng", 
+    "English_name": "Mosquito", 
+    "Description": "A baby boy or girl"
+}
+
+]
